@@ -1,2 +1,2 @@
 # dhondhu
-Hi this is a trial repository for us.
+Hi this is a trial repository for GitHub.
